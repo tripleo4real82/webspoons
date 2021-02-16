@@ -1,0 +1,10 @@
+The technologies used for this project is Springbooth and H2db
+
+Springbooth was used because it is robust and very efficient with wide support globally.
+It is also light weight and runs on embedded server
+
+H2db is an inmemory database and it is very fast and efficient
+
+An inmemory database was used because the data stored in it is meant to be volatile.
+
+This project however is not suitable for production as it is not secured with authentication and authorization modules
